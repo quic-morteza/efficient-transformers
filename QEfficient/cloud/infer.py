@@ -135,7 +135,7 @@ def main(
     )
 
     #########
-    # Log
+    # Log 
     #########
 
     if benchmark:
